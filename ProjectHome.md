@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://xheditor.com/googlecode.xml" width="0" height="0" border="0" /&gt;
